@@ -2331,6 +2331,11 @@
 				width: 100%;
 			}
 
+			.image.resize img {
+				width:50%;
+				height: auto;
+			}
+
 /* List */
 
 	ol {
