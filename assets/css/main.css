@@ -3176,10 +3176,11 @@ input, select, textarea {
 
 		#footer .icons {
 			margin: 0;
+      font-size: xx-large;
 		}
 
 		#footer .copyright {
-			font-size: 0.8em;
+			font-size: 1.3em;
 			list-style: none;
 			margin: 2em 0 0 0;
 			padding: 0;
