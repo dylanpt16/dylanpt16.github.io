@@ -3540,3 +3540,20 @@ ul.major-icons {
     flex-direction: column;
     justify-content: space-around;
 }
+
+.col-8.special {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: left;
+}
+
+ul.job-details {
+	list-style: none;
+}
+
+ul.job-details > li:before {
+  content: "-"; /* en dash */
+  position: absolute;
+  margin-left: -1.1em; 
+}
