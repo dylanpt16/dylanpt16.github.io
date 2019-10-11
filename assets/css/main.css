@@ -3493,15 +3493,19 @@ input, select, textarea {
 }
 
 .devicon-javascript-plain:before,
+.devicon-typescript-plain:before,
+.devicon-webpack-plain-wordmark:before,
 .devicon-react-original-wordmark:before,
 .devicon-html5-plain-wordmark:before,
 .devicon-css3-plain-wordmark:before,
 .devicon-jquery-plain-wordmark:before,
 .devicon-postgresql-plain-wordmark:before,
+.devicon-mysql-plain-wordmark:before,
 .devicon-git-plain-wordmark:before,
 .devicon-ruby-plain-wordmark:before,
 .devicon-rails-plain-wordmark:before,
 .devicon-python-plain-wordmark:before,
+.devicon-jasmine-plain-wordmark:before,
 .devicon-cplusplus-plain-wordmark:before,
 .devicon-java-plain-wordmark:before{
   font-size: 4em;
@@ -3510,15 +3514,20 @@ input, select, textarea {
 }
 
 .devicon-javascript-plain.colored,
+.devicon-typescript-plain,
+.devicon-webpack-plain,
+.devicon-webpack-plain-wordmark.colored,
 .devicon-react-original-wordmark.colored,
 .devicon-html5-plain-wordmark.colored,
 .devicon-css3-plain-wordmark.colored,
 .devicon-jquery-plain-wordmark,
 .devicon-postgresql-plain-wordmark,
+.devicon-mysql-plain-wordmark,
 .devicon-git-plain-wordmark.colored,
 .devicon-ruby-plain-wordmark.colored,
 .devicon-rails-plain-wordmark,
 .devicon-python-plain-wordmark.colored,
+.devicon-jasmine-plain-wordmark,
 .devicon-cplusplus-plain-wordmark.colored,
 .devicon-java-plain-wordmark{
   display: flex;
